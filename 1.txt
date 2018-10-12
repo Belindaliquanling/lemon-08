@@ -9,3 +9,6 @@
 9.git clone <仓库的地址> 克隆项目 默认仓库的名称是 origin 主分支
 10.git pull 拉取同步远程仓库的代码  git pull <仓库别名><分支别名>
 11.git fetch 下载分支 git fetch <仓库别名> git fetch 远程分支：本地分支
+12.git 代码管理工具 
+13.git --version 测试安装
+14.github(开源) & gitlab(企业)
