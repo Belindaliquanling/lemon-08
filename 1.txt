@@ -1,0 +1,11 @@
+1.git init 初始化一个本地的仓库
+2.git add <文件名称> 没有任何反馈 git add . 添加当前项目下的所有文件
+3.git commit 暂存到仓库 git commit -m '描述信息'
+4.git branch <分支别名> 创建别名 git branch 查看分支
+5.git checkout <分支别名>  切换分支
+6.git merge <分支别名> 合并分支
+7.git remote 配置远程仓库的信息
+8.git push 把项目推送到远端仓库 git push <仓库别名> <分支别名> 当有多个仓库和分支的时候
+9.git clone <仓库的地址> 克隆项目 默认仓库的名称是 origin 主分支
+10.git pull 拉取同步远程仓库的代码  git pull <仓库别名><分支别名>
+11.git fetch 下载分支 git fetch <仓库别名> git fetch 远程分支：本地分支
